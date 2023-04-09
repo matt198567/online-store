@@ -3256,6 +3256,14 @@ body::after {
       align-self: center;
 }
 
+.options-product__value {
+  z-index: 12;
+}
+
+.options-product__item {
+  z-index: 100;
+}
+
 .actions-product__price {
   font-weight: 700;
   font-size: 1.875rem;
